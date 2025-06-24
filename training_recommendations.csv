@@ -1,0 +1,148 @@
+EmployeeID,Name,Role,Skill,CurrentProficiency,RequiredProficiency,Gap,RecommendedTraining
+1,Employee_1,Software Engineer,Python,4.0,5,1.0,Advanced Python Training
+1,Employee_1,Software Engineer,System Design,3.0,5,2.0,Advanced System Design Training
+2,Employee_2,Software Engineer,System Design,2.0,5,3.0,Advanced System Design Training
+3,Employee_3,Software Engineer,Python,3.0,5,2.0,Advanced Python Training
+3,Employee_3,Software Engineer,Algorithms,3.0,5,2.0,Advanced Algorithms Training
+3,Employee_3,Software Engineer,System Design,3.0,5,2.0,Advanced System Design Training
+4,Employee_4,HR Manager,Employee Relations,4.0,5,1.0,Advanced Employee Relations Training
+4,Employee_4,HR Manager,Compliance,3.0,5,2.0,Advanced Compliance Training
+5,Employee_5,Product Manager,Communication,2.0,5,3.0,Advanced Communication Training
+5,Employee_5,Product Manager,Roadmapping,4.0,5,1.0,Advanced Roadmapping Training
+6,Employee_6,Product Manager,Market Analysis,2.0,5,3.0,Advanced Market Analysis Training
+6,Employee_6,Product Manager,Communication,4.0,5,1.0,Advanced Communication Training
+7,Employee_7,Data Analyst,SQL,1.0,5,4.0,Advanced SQL Training
+7,Employee_7,Data Analyst,Statistics,4.0,5,1.0,Advanced Statistics Training
+7,Employee_7,Data Analyst,Data Visualization,2.0,5,3.0,Advanced Data Visualization Training
+8,Employee_8,Data Analyst,Statistics,4.0,5,1.0,Advanced Statistics Training
+8,Employee_8,Data Analyst,Data Visualization,1.0,5,4.0,Advanced Data Visualization Training
+9,Employee_9,Software Engineer,Python,1.0,5,4.0,Advanced Python Training
+9,Employee_9,Software Engineer,Algorithms,3.0,5,2.0,Advanced Algorithms Training
+9,Employee_9,Software Engineer,System Design,3.0,5,2.0,Advanced System Design Training
+10,Employee_10,Software Engineer,Python,2.0,5,3.0,Advanced Python Training
+10,Employee_10,Software Engineer,Algorithms,4.0,5,1.0,Advanced Algorithms Training
+10,Employee_10,Software Engineer,System Design,4.0,5,1.0,Advanced System Design Training
+11,Employee_11,Data Analyst,SQL,3.0,5,2.0,Advanced SQL Training
+11,Employee_11,Data Analyst,Statistics,4.0,5,1.0,Advanced Statistics Training
+11,Employee_11,Data Analyst,Data Visualization,4.0,5,1.0,Advanced Data Visualization Training
+12,Employee_12,Product Manager,Market Analysis,1.0,5,4.0,Advanced Market Analysis Training
+12,Employee_12,Product Manager,Communication,3.0,5,2.0,Advanced Communication Training
+13,Employee_13,Marketing Specialist,SEO,3.0,5,2.0,Advanced SEO Training
+13,Employee_13,Marketing Specialist,Social Media,1.0,5,4.0,Advanced Social Media Training
+14,Employee_14,Data Analyst,SQL,2.0,5,3.0,Advanced SQL Training
+14,Employee_14,Data Analyst,Statistics,4.0,5,1.0,Advanced Statistics Training
+14,Employee_14,Data Analyst,Data Visualization,1.0,5,4.0,Advanced Data Visualization Training
+15,Employee_15,HR Manager,Recruitment,4.0,5,1.0,Advanced Recruitment Training
+15,Employee_15,HR Manager,Employee Relations,2.0,5,3.0,Advanced Employee Relations Training
+15,Employee_15,HR Manager,Compliance,2.0,5,3.0,Advanced Compliance Training
+16,Employee_16,Software Engineer,Python,1.0,5,4.0,Advanced Python Training
+16,Employee_16,Software Engineer,Algorithms,2.0,5,3.0,Advanced Algorithms Training
+17,Employee_17,Software Engineer,Python,2.0,5,3.0,Advanced Python Training
+17,Employee_17,Software Engineer,Algorithms,4.0,5,1.0,Advanced Algorithms Training
+17,Employee_17,Software Engineer,System Design,4.0,5,1.0,Advanced System Design Training
+18,Employee_18,Product Manager,Market Analysis,4.0,5,1.0,Advanced Market Analysis Training
+18,Employee_18,Product Manager,Communication,4.0,5,1.0,Advanced Communication Training
+19,Employee_19,Software Engineer,Python,3.0,5,2.0,Advanced Python Training
+19,Employee_19,Software Engineer,Algorithms,1.0,5,4.0,Advanced Algorithms Training
+19,Employee_19,Software Engineer,System Design,4.0,5,1.0,Advanced System Design Training
+20,Employee_20,Marketing Specialist,SEO,2.0,5,3.0,Advanced SEO Training
+20,Employee_20,Marketing Specialist,Content Creation,4.0,5,1.0,Advanced Content Creation Training
+20,Employee_20,Marketing Specialist,Social Media,2.0,5,3.0,Advanced Social Media Training
+21,Employee_21,Marketing Specialist,SEO,2.0,5,3.0,Advanced SEO Training
+21,Employee_21,Marketing Specialist,Content Creation,4.0,5,1.0,Advanced Content Creation Training
+22,Employee_22,HR Manager,Recruitment,2.0,5,3.0,Advanced Recruitment Training
+22,Employee_22,HR Manager,Employee Relations,2.0,5,3.0,Advanced Employee Relations Training
+22,Employee_22,HR Manager,Compliance,4.0,5,1.0,Advanced Compliance Training
+23,Employee_23,Software Engineer,Python,2.0,5,3.0,Advanced Python Training
+23,Employee_23,Software Engineer,Algorithms,2.0,5,3.0,Advanced Algorithms Training
+23,Employee_23,Software Engineer,System Design,4.0,5,1.0,Advanced System Design Training
+24,Employee_24,HR Manager,Recruitment,4.0,5,1.0,Advanced Recruitment Training
+24,Employee_24,HR Manager,Employee Relations,1.0,5,4.0,Advanced Employee Relations Training
+25,Employee_25,Data Analyst,Statistics,2.0,5,3.0,Advanced Statistics Training
+26,Employee_26,Software Engineer,Python,2.0,5,3.0,Advanced Python Training
+26,Employee_26,Software Engineer,Algorithms,1.0,5,4.0,Advanced Algorithms Training
+26,Employee_26,Software Engineer,System Design,4.0,5,1.0,Advanced System Design Training
+27,Employee_27,Data Analyst,SQL,4.0,5,1.0,Advanced SQL Training
+27,Employee_27,Data Analyst,Statistics,4.0,5,1.0,Advanced Statistics Training
+28,Employee_28,Marketing Specialist,SEO,1.0,5,4.0,Advanced SEO Training
+29,Employee_29,Software Engineer,Python,1.0,5,4.0,Advanced Python Training
+29,Employee_29,Software Engineer,Algorithms,1.0,5,4.0,Advanced Algorithms Training
+29,Employee_29,Software Engineer,System Design,1.0,5,4.0,Advanced System Design Training
+30,Employee_30,Software Engineer,Python,1.0,5,4.0,Advanced Python Training
+30,Employee_30,Software Engineer,Algorithms,4.0,5,1.0,Advanced Algorithms Training
+30,Employee_30,Software Engineer,System Design,3.0,5,2.0,Advanced System Design Training
+31,Employee_31,HR Manager,Recruitment,3.0,5,2.0,Advanced Recruitment Training
+31,Employee_31,HR Manager,Employee Relations,1.0,5,4.0,Advanced Employee Relations Training
+31,Employee_31,HR Manager,Compliance,3.0,5,2.0,Advanced Compliance Training
+32,Employee_32,Product Manager,Market Analysis,3.0,5,2.0,Advanced Market Analysis Training
+32,Employee_32,Product Manager,Communication,1.0,5,4.0,Advanced Communication Training
+32,Employee_32,Product Manager,Roadmapping,3.0,5,2.0,Advanced Roadmapping Training
+33,Employee_33,Marketing Specialist,Content Creation,2.0,5,3.0,Advanced Content Creation Training
+33,Employee_33,Marketing Specialist,Social Media,2.0,5,3.0,Advanced Social Media Training
+34,Employee_34,HR Manager,Recruitment,1.0,5,4.0,Advanced Recruitment Training
+34,Employee_34,HR Manager,Employee Relations,4.0,5,1.0,Advanced Employee Relations Training
+34,Employee_34,HR Manager,Compliance,1.0,5,4.0,Advanced Compliance Training
+35,Employee_35,Product Manager,Market Analysis,4.0,5,1.0,Advanced Market Analysis Training
+35,Employee_35,Product Manager,Communication,2.0,5,3.0,Advanced Communication Training
+35,Employee_35,Product Manager,Roadmapping,1.0,5,4.0,Advanced Roadmapping Training
+36,Employee_36,HR Manager,Employee Relations,3.0,5,2.0,Advanced Employee Relations Training
+36,Employee_36,HR Manager,Compliance,4.0,5,1.0,Advanced Compliance Training
+37,Employee_37,Product Manager,Market Analysis,3.0,5,2.0,Advanced Market Analysis Training
+37,Employee_37,Product Manager,Communication,3.0,5,2.0,Advanced Communication Training
+37,Employee_37,Product Manager,Roadmapping,1.0,5,4.0,Advanced Roadmapping Training
+38,Employee_38,Data Analyst,SQL,3.0,5,2.0,Advanced SQL Training
+38,Employee_38,Data Analyst,Data Visualization,3.0,5,2.0,Advanced Data Visualization Training
+39,Employee_39,Product Manager,Market Analysis,1.0,5,4.0,Advanced Market Analysis Training
+39,Employee_39,Product Manager,Roadmapping,2.0,5,3.0,Advanced Roadmapping Training
+40,Employee_40,Marketing Specialist,SEO,3.0,5,2.0,Advanced SEO Training
+40,Employee_40,Marketing Specialist,Content Creation,1.0,5,4.0,Advanced Content Creation Training
+40,Employee_40,Marketing Specialist,Social Media,2.0,5,3.0,Advanced Social Media Training
+41,Employee_41,Marketing Specialist,SEO,2.0,5,3.0,Advanced SEO Training
+41,Employee_41,Marketing Specialist,Content Creation,4.0,5,1.0,Advanced Content Creation Training
+42,Employee_42,Marketing Specialist,SEO,3.0,5,2.0,Advanced SEO Training
+42,Employee_42,Marketing Specialist,Content Creation,1.0,5,4.0,Advanced Content Creation Training
+42,Employee_42,Marketing Specialist,Social Media,4.0,5,1.0,Advanced Social Media Training
+43,Employee_43,Product Manager,Communication,4.0,5,1.0,Advanced Communication Training
+44,Employee_44,Software Engineer,Algorithms,3.0,5,2.0,Advanced Algorithms Training
+45,Employee_45,Software Engineer,Python,4.0,5,1.0,Advanced Python Training
+45,Employee_45,Software Engineer,System Design,3.0,5,2.0,Advanced System Design Training
+46,Employee_46,Product Manager,Market Analysis,3.0,5,2.0,Advanced Market Analysis Training
+46,Employee_46,Product Manager,Communication,4.0,5,1.0,Advanced Communication Training
+46,Employee_46,Product Manager,Roadmapping,2.0,5,3.0,Advanced Roadmapping Training
+47,Employee_47,HR Manager,Recruitment,2.0,5,3.0,Advanced Recruitment Training
+47,Employee_47,HR Manager,Compliance,1.0,5,4.0,Advanced Compliance Training
+48,Employee_48,Marketing Specialist,Content Creation,4.0,5,1.0,Advanced Content Creation Training
+48,Employee_48,Marketing Specialist,Social Media,4.0,5,1.0,Advanced Social Media Training
+49,Employee_49,Marketing Specialist,SEO,4.0,5,1.0,Advanced SEO Training
+49,Employee_49,Marketing Specialist,Content Creation,4.0,5,1.0,Advanced Content Creation Training
+49,Employee_49,Marketing Specialist,Social Media,4.0,5,1.0,Advanced Social Media Training
+50,Employee_50,Software Engineer,Python,3.0,5,2.0,Advanced Python Training
+50,Employee_50,Software Engineer,Algorithms,2.0,5,3.0,Advanced Algorithms Training
+50,Employee_50,Software Engineer,System Design,4.0,5,1.0,Advanced System Design Training
+51,Employee_51,HR Manager,Recruitment,1.0,5,4.0,Advanced Recruitment Training
+51,Employee_51,HR Manager,Employee Relations,1.0,5,4.0,Advanced Employee Relations Training
+51,Employee_51,HR Manager,Compliance,1.0,5,4.0,Advanced Compliance Training
+52,Employee_52,Software Engineer,Python,1.0,5,4.0,Advanced Python Training
+52,Employee_52,Software Engineer,Algorithms,3.0,5,2.0,Advanced Algorithms Training
+52,Employee_52,Software Engineer,System Design,1.0,5,4.0,Advanced System Design Training
+53,Employee_53,HR Manager,Recruitment,4.0,5,1.0,Advanced Recruitment Training
+53,Employee_53,HR Manager,Compliance,1.0,5,4.0,Advanced Compliance Training
+54,Employee_54,Marketing Specialist,SEO,3.0,5,2.0,Advanced SEO Training
+54,Employee_54,Marketing Specialist,Content Creation,3.0,5,2.0,Advanced Content Creation Training
+54,Employee_54,Marketing Specialist,Social Media,1.0,5,4.0,Advanced Social Media Training
+55,Employee_55,Software Engineer,Algorithms,1.0,5,4.0,Advanced Algorithms Training
+55,Employee_55,Software Engineer,System Design,3.0,5,2.0,Advanced System Design Training
+56,Employee_56,Marketing Specialist,SEO,2.0,5,3.0,Advanced SEO Training
+56,Employee_56,Marketing Specialist,Content Creation,4.0,5,1.0,Advanced Content Creation Training
+56,Employee_56,Marketing Specialist,Social Media,3.0,5,2.0,Advanced Social Media Training
+57,Employee_57,Marketing Specialist,SEO,1.0,5,4.0,Advanced SEO Training
+57,Employee_57,Marketing Specialist,Content Creation,4.0,5,1.0,Advanced Content Creation Training
+57,Employee_57,Marketing Specialist,Social Media,1.0,5,4.0,Advanced Social Media Training
+58,Employee_58,Data Analyst,SQL,1.0,5,4.0,Advanced SQL Training
+58,Employee_58,Data Analyst,Statistics,2.0,5,3.0,Advanced Statistics Training
+58,Employee_58,Data Analyst,Data Visualization,4.0,5,1.0,Advanced Data Visualization Training
+59,Employee_59,Software Engineer,Python,4.0,5,1.0,Advanced Python Training
+59,Employee_59,Software Engineer,Algorithms,2.0,5,3.0,Advanced Algorithms Training
+59,Employee_59,Software Engineer,System Design,3.0,5,2.0,Advanced System Design Training
+60,Employee_60,Software Engineer,Python,1.0,5,4.0,Advanced Python Training
+60,Employee_60,Software Engineer,System Design,1.0,5,4.0,Advanced System Design Training
